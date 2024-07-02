@@ -1,0 +1,5 @@
+pipenv
+tqdm notebook==7.1.2 
+openai 
+elasticsearch
+python-dotenv
